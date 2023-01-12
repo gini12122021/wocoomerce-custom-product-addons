@@ -1,0 +1,16 @@
+.removeimg {
+    cursor: pointer;
+  }
+  .imageThumb {
+    width: 130px;
+    height: 100px;
+    border: 1px solid #000;
+    margin: 10px;
+  }
+  .pip .remove {
+    background: red;
+    color: #fff;
+    padding: 10px;
+    text-transform: capitalize;
+    font-size: 14px;
+  }
